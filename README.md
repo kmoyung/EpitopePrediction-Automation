@@ -13,3 +13,6 @@ _Note: To use the script, you must install the EpitopePrediction library. Instru
 * * * 
 
 ## Instructions for using the script
+This script requires the file "Supported HLA Alleles.txt", which is provided for you in the repository. This file contains a list of *only* HLA alleles supported by the library.
+
+
