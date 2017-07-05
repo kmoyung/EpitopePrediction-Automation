@@ -6,8 +6,6 @@ This is useful for users to pull out data in a large quantity generated via the 
 
 _Note:_ To use the script, you must install the EpitopePrediction library. Instructions can be found below in "Instructions for using EpitopePrediction".
 
-* * * 
-
 [Author](https://github.com/jtextor/epitope-prediction)  
 [Instructions for using EpitopePrediction](http://johannes-textor.name/R/epitope-prediction-using-r.html) 
 
