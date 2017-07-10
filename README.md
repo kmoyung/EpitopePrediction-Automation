@@ -9,7 +9,7 @@ _Note:_ To use the script, you must install the EpitopePrediction library. Instr
 [Author](https://github.com/jtextor/epitope-prediction)  
 [Instructions for using EpitopePrediction](http://johannes-textor.name/R/epitope-prediction-using-r.html) 
 
-This script is used internally at Aduro Biotech, Inc.
+_This script is used internally by Kevin Moyung._
 
 * * * 
 
