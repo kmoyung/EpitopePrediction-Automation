@@ -1,4 +1,4 @@
-# EpitopePrediction-Automation
+# EpitopePrediction Automation
 
 _An R script that automatically retrieves epitope binding data from the EpitopePrediction package._
 
